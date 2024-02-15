@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435405376313",
+    "project_id": "g-pass-46456",
+    "storage_bucket": "g-pass-46456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435405376313:android:bfa43a6c8a67c8cda0f6e8",
+        "android_client_info": {
+          "package_name": "com.blacklamp.g_pass.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0n2QVH2MHMgCb6W3Dxy-Fq1337AyJrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
