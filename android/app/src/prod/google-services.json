@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "435405376313",
-    "project_id": "g-pass-46456",
-    "storage_bucket": "g-pass-46456.appspot.com"
+    "project_number": "671026355561",
+    "project_id": "flutter-skeleton-prod",
+    "storage_bucket": "flutter-skeleton-prod.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:435405376313:android:bfa43a6c8a67c8cda0f6e8",
+        "mobilesdk_app_id": "1:671026355561:android:cad03b3a481b98d5d271f8",
         "android_client_info": {
-          "package_name": "com.blacklamp.g_pass.dev"
+          "package_name": "com.blacklamp.g_pass.prod"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBo0n2QVH2MHMgCb6W3Dxy-Fq1337AyJrw"
+          "current_key": "AIzaSyButJ7SgOPq9aW0iBPpkFcxvMjnXC1_w1I"
         }
       ],
       "services": {
