@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:g_pass/screens/home/home.dart';
 import 'package:g_pass/screens/settings/settings_screen.dart';
 import 'package:g_pass/screens/splash/splash_screen.dart';
 import 'package:g_pass/screens/user/sign_in.dart';
@@ -15,6 +16,7 @@ class Routes {
 
   static final routes = <String, WidgetBuilder>{
     splash: (BuildContext context) => const SplashScreen(),
+    home: (BuildContext context) => const HomeScreen(),
     login: (BuildContext context) => const SignInScreen(),
     register: (BuildContext context) => const RegisterScreen(),
     setting: (BuildContext context) => const SettingScreen(),

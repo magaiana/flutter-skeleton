@@ -87,6 +87,7 @@ flutter:
     - assets/fonts/
     - assets/google_fonts/
     - assets/imgs/
+    - assets/lang/
 
   fonts:
     - family: Montserrat

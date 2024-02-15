@@ -1,4 +1,4 @@
-package com.example.g_pass
+package com.blacklamp.g_pass
 
 import io.flutter.embedding.android.FlutterActivity
 

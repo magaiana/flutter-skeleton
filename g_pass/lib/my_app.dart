@@ -75,7 +75,7 @@ class MainApp extends StatelessWidget {
                       if (userSnapshot.connectionState ==
                           ConnectionState.active) {
                         return userSnapshot.hasData
-                            ? const HomeScreen()
+                            ? const SignInScreen()
                             : const SignInScreen();
                       }
 
